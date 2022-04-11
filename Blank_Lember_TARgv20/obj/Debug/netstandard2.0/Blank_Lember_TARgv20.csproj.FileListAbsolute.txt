@@ -1,0 +1,47 @@
+C:/Users/opilane/Downloads/Blank_Lember_TARgv20/Blank_Lember_TARgv20/bin/Debug/netstandard2.0/Blank_Lember_TARgv20.deps.json
+C:/Users/opilane/Downloads/Blank_Lember_TARgv20/Blank_Lember_TARgv20/bin/Debug/netstandard2.0/Blank_Lember_TARgv20.dll
+C:/Users/opilane/Downloads/Blank_Lember_TARgv20/Blank_Lember_TARgv20/bin/Debug/netstandard2.0/ref/Blank_Lember_TARgv20.dll
+C:/Users/opilane/Downloads/Blank_Lember_TARgv20/Blank_Lember_TARgv20/bin/Debug/netstandard2.0/Blank_Lember_TARgv20.pdb
+C:/Users/opilane/Downloads/Blank_Lember_TARgv20/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/Blank_Lember_TARgv20.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/opilane/Downloads/Blank_Lember_TARgv20/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/opilane/Downloads/Blank_Lember_TARgv20/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/Game_Page.xaml.g.cs
+C:/Users/opilane/Downloads/Blank_Lember_TARgv20/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+C:/Users/opilane/Downloads/Blank_Lember_TARgv20/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/Blank_Lember_TARgv20.AssemblyInfoInputs.cache
+C:/Users/opilane/Downloads/Blank_Lember_TARgv20/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/Blank_Lember_TARgv20.AssemblyInfo.cs
+C:/Users/opilane/Downloads/Blank_Lember_TARgv20/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/Blank_Lember_TARgv20.csproj.CoreCompileInputs.cache
+C:/Users/opilane/Downloads/Blank_Lember_TARgv20/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Users/opilane/Downloads/Blank_Lember_TARgv20/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/Blank_Lember_TARgv20.dll
+C:/Users/opilane/Downloads/Blank_Lember_TARgv20/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/ref/Blank_Lember_TARgv20.dll
+C:/Users/opilane/Downloads/Blank_Lember_TARgv20/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/Blank_Lember_TARgv20.pdb
+/Users/ingalember/Downloads/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/bin/Debug/netstandard2.0/Blank_Lember_TARgv20.deps.json
+/Users/ingalember/Downloads/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/bin/Debug/netstandard2.0/Blank_Lember_TARgv20.dll
+/Users/ingalember/Downloads/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/bin/Debug/netstandard2.0/ref/Blank_Lember_TARgv20.dll
+/Users/ingalember/Downloads/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/bin/Debug/netstandard2.0/Blank_Lember_TARgv20.pdb
+/Users/ingalember/Downloads/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/Blank_Lember_TARgv20.csproj.AssemblyReference.cache
+/Users/ingalember/Downloads/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/Blank_Lember_TARgv20.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ingalember/Downloads/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ingalember/Downloads/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/Game_Page.xaml.g.cs
+/Users/ingalember/Downloads/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ingalember/Downloads/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/Blank_Lember_TARgv20.AssemblyInfoInputs.cache
+/Users/ingalember/Downloads/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/Blank_Lember_TARgv20.AssemblyInfo.cs
+/Users/ingalember/Downloads/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/Blank_Lember_TARgv20.csproj.CoreCompileInputs.cache
+/Users/ingalember/Downloads/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ingalember/Downloads/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/Blank_Lember_TARgv20.dll
+/Users/ingalember/Downloads/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/ref/Blank_Lember_TARgv20.dll
+/Users/ingalember/Downloads/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/Blank_Lember_TARgv20.pdb
+/Users/ingalember/Desktop/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/bin/Debug/netstandard2.0/Blank_Lember_TARgv20.deps.json
+/Users/ingalember/Desktop/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/bin/Debug/netstandard2.0/Blank_Lember_TARgv20.dll
+/Users/ingalember/Desktop/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/bin/Debug/netstandard2.0/ref/Blank_Lember_TARgv20.dll
+/Users/ingalember/Desktop/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/bin/Debug/netstandard2.0/Blank_Lember_TARgv20.pdb
+/Users/ingalember/Desktop/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/Blank_Lember_TARgv20.csproj.AssemblyReference.cache
+/Users/ingalember/Desktop/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/Blank_Lember_TARgv20.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ingalember/Desktop/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ingalember/Desktop/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/Game_Page.xaml.g.cs
+/Users/ingalember/Desktop/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ingalember/Desktop/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/Blank_Lember_TARgv20.AssemblyInfoInputs.cache
+/Users/ingalember/Desktop/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/Blank_Lember_TARgv20.AssemblyInfo.cs
+/Users/ingalember/Desktop/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/Blank_Lember_TARgv20.csproj.CoreCompileInputs.cache
+/Users/ingalember/Desktop/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ingalember/Desktop/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/Blank_Lember_TARgv20.dll
+/Users/ingalember/Desktop/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/ref/Blank_Lember_TARgv20.dll
+/Users/ingalember/Desktop/Blank_Lember_TARgv20 2/Blank_Lember_TARgv20/obj/Debug/netstandard2.0/Blank_Lember_TARgv20.pdb

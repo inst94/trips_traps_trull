@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{5FD1015C-1DCC-4A78-978E-C888F1E9871E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Blank__Lember__TARgv20.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Blank_Lember_TARgv20/Game_Page.xaml.cs">
+    <Files>
+      <File FileName="Blank_Lember_TARgv20/Game_Page.xaml.cs" Line="125" Column="75" />
+      <File FileName="Blank_Lember_TARgv20/MainPage.xaml.cs" />
+      <File FileName="Blank_Lember_TARgv20/Game_Page.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Blank_Lember_TARgv20" expanded="True">
+            <Node name="Blank_Lember_TARgv20" expanded="True">
+              <Node name="Game_Page.xaml" expanded="True">
+                <Node name="Game_Page.xaml.cs" selected="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
